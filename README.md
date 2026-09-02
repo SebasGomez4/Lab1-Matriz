@@ -1,3 +1,6 @@
+# Sebastián Gómez Quintero 
+# CC: 1019991456
+
 # Lab1-Matriz
 
 En el laboratorio se nos plantea como problema la creación de una matriz de 100.000 x 100.000 en el disco duro, se tiene como objetivo solucionar los siguientes problemas:
